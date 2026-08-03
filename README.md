@@ -36,13 +36,16 @@ Built an interactive dashboard surfacing key trends — customer segmentation, p
 4. Reporting
 
 Summarized findings and business recommendations in a project report, translating the analysis into actionable next steps
-📁 Project Structure
-📦 customer-behavior-analysis
-│
-├── Customer_Shopping_Behavior_Analysis.ipynb   # Data import, exploration, cleaning
-├── customer_behavior_sql_queries.sql           # Business analysis via SQL
-├── customer_behavior_dashboard.pbix            # Power BI dashboard
-└── README.md
+## 📁 Project Structure
+
+```text
+📦 customer_behavior_analysis
+├── README.md
+├── Customer_Shopping_Behavior_Analysis.ipynb
+├── customer_behavior_sql_queries.sql
+├── customer_behavior_dashboard.pbix
+└── customer_shopping_data.csv
+```
 
 
 ## ▶️ Getting Started
