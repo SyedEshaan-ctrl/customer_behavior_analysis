@@ -47,7 +47,7 @@ Summarized findings and business recommendations in a project report, translatin
 
 ## ▶️ Getting Started
 
-[Clone the repository](https://github.com/SyedEshaan-ctrl/customer_behavior_analysis.git)
+**Repository:** [customer_behavior_analysis](https://github.com/SyedEshaan-ctrl/customer_behavior_analysis)
 
 ```bash
 git clone https://github.com/SyedEshaan-ctrl/customer_behavior_analysis.git
@@ -62,7 +62,6 @@ Open customer_behavior_sql_queries.sql and run the queries to answer the busines
 
 Open customer_behavior_dashboard.pbix in Power BI to explore the interactive dashboard.
 
-```md
 ## 📬 Contact
 **Syed Mohammed Eshaan**
 - **GitHub:** [SyedEshaan-ctrl](https://github.com/SyedEshaan-ctrl)
